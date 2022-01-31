@@ -1,6 +1,6 @@
 # Varshith Bairy
 
-s = open("01Sorter.txt","r")
+s = open("02Sorter.txt","r")
 r = open("01Reducer.txt","w")
 
 thisKey = ""
