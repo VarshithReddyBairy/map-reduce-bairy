@@ -1,0 +1,240 @@
+Abington  	 5.0
+Alachua  	 3.0
+Albany  	 4.0
+Albuquerque  	 2.0
+Allen  	 1.0
+Altamonte Springs  	 3.0
+Arlington  	 3.0
+Ashland  	 8.0
+Astoria  	 6.0
+Atlanta  	 2.0
+Auburn  	 10.0
+Audubon  	 1.0
+Augusta  	 1.0
+Aurora  	 1.0
+Ayer  	 1.0
+Bakersfield  	 1.0
+Barboursville  	 1.0
+Bayonne  	 2.0
+Beaverton  	 3.0
+Belleview  	 8.0
+Bend  	 2.0
+Bennettsville  	 2.0
+Berwyn  	 2.0
+Binghamton  	 1.0
+Bloomfield Hills  	 3.0
+Bloomington  	 3.0
+Blowing Rock  	 1.0
+Boise  	 2.0
+Bolingbrook  	 7.0
+Bowling Green  	 4.0
+Briarcliff Manor  	 3.0
+Bristol  	 1.0
+Brooklyn  	 1.0
+Bucyrus  	 3.0
+Buffalo  	 5.0
+Burlington  	 7.0
+Califon  	 1.0
+Canonsburg  	 1.0
+Cave Creek  	 1.0
+Cedar Park  	 3.0
+Celina  	 1.0
+Charlotte  	 3.0
+Chatsworth  	 2.0
+Cherry Hill  	 5.0
+Chesterfield  	 7.0
+Chicago  	 2.0
+Chicago Ridge  	 4.0
+Cincinnati  	 1.0
+city  	 1.0
+Cleveland  	 2.0
+College Station  	 1.0
+Collegeville  	 8.0
+Columbia  	 2.0
+Columbus  	 12.0
+Crown Point  	 1.0
+Danville  	 2.0
+Dearborn  	 2.0
+Deland  	 3.0
+Denver  	 4.0
+Desert Hot Springs  	 1.0
+Detroit Lakes  	 4.0
+Duluth  	 5.0
+E Windsor  	 2.0
+East Greenwich  	 1.0
+East Hartford  	 1.0
+Edmond  	 2.0
+El Segundo  	 2.0
+Elgin  	 1.0
+Elyria  	 2.0
+Encinitas  	 2.0
+Endicott  	 1.0
+Englewood  	 1.0
+Ephrata  	 1.0
+Essex  	 1.0
+Excelsior  	 4.0
+Fairfield  	 11.0
+Fenton  	 7.0
+Flagstaff  	 5.0
+Folsom  	 1.0
+Fort Lee  	 1.0
+Fort Worth  	 2.0
+Framingham  	 1.0
+Frankfort  	 2.0
+Fruitport  	 1.0
+Garfield  	 3.0
+Glenview  	 1.0
+Grapevine  	 1.0
+Greensboro  	 2.0
+Gunnison  	 1.0
+Harleysville  	 5.0
+Harrisonburg  	 1.0
+Hazlet  	 1.0
+Henrico  	 2.0
+Hershey  	 1.0
+Hilton Head Island  	 1.0
+Hollywood  	 2.0
+Honolulu  	 6.0
+Hopkinton  	 1.0
+Houston  	 7.0
+Huntington Beach  	 6.0
+Hyde Park  	 5.0
+Idaho Springs  	 2.0
+Indianapolis  	 2.0
+Irvine  	 1.0
+Islip  	 4.0
+Jackson  	 1.0
+Jacksonville  	 2.0
+Jefferson City  	 7.0
+Johns Island  	 2.0
+Joppa  	 8.0
+Kamuela  	 1.0
+Keller  	 4.0
+Kennesaw  	 2.0
+Kensington  	 1.0
+Kent  	 1.0
+Kernersville  	 3.0
+King Of Prussia  	 1.0
+Kingston  	 1.0
+Kinston  	 2.0
+Kirkland  	 4.0
+Kissimmee  	 1.0
+Lafayette Hill  	 1.0
+Lakeside  	 1.0
+Lakeview  	 1.0
+Lancaster  	 3.0
+Las Vegas  	 3.0
+Layton  	 2.0
+Lexington  	 2.0
+Lisle  	 1.0
+Littleton  	 1.0
+Long Beach  	 2.0
+Los Angeles  	 5.0
+Louisville  	 9.0
+Loveland  	 1.0
+Lyons  	 6.0
+Madison  	 1.0
+Mahopac  	 1.0
+Maitland  	 2.0
+Mankato  	 1.0
+Mansfield  	 3.0
+Maple Shade  	 2.0
+Margate City  	 3.0
+Marysville  	 1.0
+Matthews  	 7.0
+Mc Cordsville  	 5.0
+Mechanicsburg  	 5.0
+Miami Beach  	 1.0
+Middle Village  	 2.0
+Middletown  	 13.0
+Mill Valley  	 2.0
+Milwaukee  	 1.0
+Moorestown  	 5.0
+Mount Prospect  	 1.0
+Myrtle Beach  	 2.0
+N Olmsted  	 4.0
+Naples  	 3.0
+Nashville  	 2.0
+New York  	 39.0
+Newport  	 1.0
+North Port  	 2.0
+Northfield  	 6.0
+Novato  	 1.0
+Oklahoma City  	 3.0
+Orlando  	 2.0
+Oxford  	 1.0
+Palm Desert  	 4.0
+Palos Hills  	 1.0
+Pasadena  	 5.0
+Peabody  	 1.0
+Pearland  	 1.0
+Pennington  	 2.0
+Peoria  	 5.0
+Philadelphia  	 10.0
+Phoenix  	 5.0
+Pittsburg  	 2.0
+Pittsburgh  	 5.0
+Pittsfield  	 1.0
+Plano  	 3.0
+Pompano Beach  	 3.0
+Port Washington  	 5.0
+Portland  	 3.0
+Pottstown  	 1.0
+Reisterstown  	 1.0
+Richardson  	 2.0
+Richmond  	 4.0
+Rochester  	 2.0
+Rockingham  	 2.0
+Rockville  	 2.0
+Rockville Centre  	 1.0
+Saint Ann  	 1.0
+Saint Charles  	 1.0
+Saint James  	 1.0
+Saint Louis  	 2.0
+Saint Petersburg  	 1.0
+San Antonio  	 2.0
+San Diego  	 8.0
+San Francisco  	 1.0
+San Jose  	 1.0
+San Rafael  	 1.0
+Sarasota  	 1.0
+Sayville  	 2.0
+Schererville  	 2.0
+Scottsdale  	 1.0
+Seattle  	 7.0
+Sedona  	 1.0
+Sherwood  	 1.0
+Shrewsbury  	 1.0
+South Portland  	 1.0
+South Weymouth  	 8.0
+Springfield  	 2.0
+State College  	 1.0
+Stillwater  	 4.0
+Sylacauga  	 1.0
+Thousand Oaks  	 3.0
+Tracy  	 1.0
+Troy  	 1.0
+Tyngsboro  	 1.0
+Union  	 6.0
+Utica  	 1.0
+Vallejo  	 2.0
+Vernon Rockville  	 4.0
+Wareham  	 2.0
+Washington  	 1.0
+Waverly  	 9.0
+Wayne  	 2.0
+Weehawken  	 15.0
+West Haven  	 5.0
+Westwood  	 2.0
+White Plains  	 18.0
+Whitehall  	 2.0
+Whitestone  	 1.0
+Wichita  	 1.0
+Williamsburg  	 1.0
+Williamstown  	 2.0
+Willow Grove  	 2.0
+Wilmington  	 3.0
+Winston Salem  	 2.0
+Woodbury  	 1.0
+Wyckoff  	 2.0
+Yucaipa  	 2.0

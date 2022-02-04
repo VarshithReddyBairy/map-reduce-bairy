@@ -1,0 +1,715 @@
+city 	 1
+Bend 	 1
+Bend 	 1
+Los Angeles 	 1
+Los Angeles 	 1
+Los Angeles 	 1
+Los Angeles 	 1
+Los Angeles 	 1
+San Jose 	 1
+Tracy 	 1
+Pasadena 	 1
+Saint Louis 	 1
+Cedar Park 	 1
+Cedar Park 	 1
+Loveland 	 1
+Barboursville 	 1
+Wichita 	 1
+King Of Prussia 	 1
+Burlington 	 1
+Burlington 	 1
+Burlington 	 1
+Burlington 	 1
+Burlington 	 1
+Burlington 	 1
+Burlington 	 1
+Middle Village 	 1
+Middle Village 	 1
+New York 	 1
+Berwyn 	 1
+Berwyn 	 1
+Kirkland 	 1
+White Plains 	 1
+White Plains 	 1
+Astoria 	 1
+Astoria 	 1
+Astoria 	 1
+Astoria 	 1
+Astoria 	 1
+Astoria 	 1
+Littleton 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+Cincinnati 	 1
+Keller 	 1
+Keller 	 1
+Keller 	 1
+Keller 	 1
+Buffalo 	 1
+Buffalo 	 1
+Buffalo 	 1
+Buffalo 	 1
+Buffalo 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Middletown 	 1
+Palm Desert 	 1
+Fruitport 	 1
+Charlotte 	 1
+Charlotte 	 1
+Schererville 	 1
+Schererville 	 1
+Altamonte Springs 	 1
+Altamonte Springs 	 1
+San Francisco 	 1
+Kensington 	 1
+Lakeview 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Weehawken 	 1
+Richmond 	 1
+Richmond 	 1
+Louisville 	 1
+Louisville 	 1
+Louisville 	 1
+Milwaukee 	 1
+Wyckoff 	 1
+Wyckoff 	 1
+Belleview 	 1
+Belleview 	 1
+Belleview 	 1
+Belleview 	 1
+Belleview 	 1
+Belleview 	 1
+Belleview 	 1
+Belleview 	 1
+Philadelphia 	 1
+Chatsworth 	 1
+Chatsworth 	 1
+Excelsior 	 1
+Excelsior 	 1
+Excelsior 	 1
+Excelsior 	 1
+Wayne 	 1
+Wayne 	 1
+Albuquerque 	 1
+Albuquerque 	 1
+Philadelphia 	 1
+Wareham 	 1
+Wareham 	 1
+Huntington Beach 	 1
+Huntington Beach 	 1
+Huntington Beach 	 1
+Huntington Beach 	 1
+Huntington Beach 	 1
+Huntington Beach 	 1
+Kirkland 	 1
+Kirkland 	 1
+Kirkland 	 1
+Matthews 	 1
+Matthews 	 1
+Matthews 	 1
+Matthews 	 1
+Matthews 	 1
+Matthews 	 1
+Matthews 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+Ayer 	 1
+Utica 	 1
+Lisle 	 1
+Albany 	 1
+Albany 	 1
+San Diego 	 1
+State College 	 1
+Willow Grove 	 1
+Willow Grove 	 1
+Pottstown 	 1
+Indianapolis 	 1
+Indianapolis 	 1
+Califon 	 1
+Winston Salem 	 1
+Winston Salem 	 1
+Orlando 	 1
+Duluth 	 1
+Duluth 	 1
+Duluth 	 1
+Duluth 	 1
+Duluth 	 1
+Sherwood 	 1
+Thousand Oaks 	 1
+Thousand Oaks 	 1
+Lafayette Hill 	 1
+Henrico 	 1
+Henrico 	 1
+Kissimmee 	 1
+Troy 	 1
+Chicago 	 1
+Bayonne 	 1
+Bayonne 	 1
+Honolulu 	 1
+Honolulu 	 1
+Honolulu 	 1
+Canonsburg 	 1
+Harrisonburg 	 1
+Kinston 	 1
+Kinston 	 1
+Saint Louis 	 1
+Naples 	 1
+Naples 	 1
+Naples 	 1
+Moorestown 	 1
+Moorestown 	 1
+Moorestown 	 1
+Moorestown 	 1
+Moorestown 	 1
+Altamonte Springs 	 1
+Philadelphia 	 1
+Philadelphia 	 1
+Philadelphia 	 1
+Philadelphia 	 1
+Philadelphia 	 1
+Philadelphia 	 1
+Philadelphia 	 1
+North Port 	 1
+North Port 	 1
+Sedona 	 1
+Hopkinton 	 1
+Ephrata 	 1
+Orlando 	 1
+Saint Petersburg 	 1
+Portland 	 1
+Portland 	 1
+Portland 	 1
+Elyria 	 1
+Elyria 	 1
+Layton 	 1
+Layton 	 1
+Hollywood 	 1
+Flagstaff 	 1
+Flagstaff 	 1
+Flagstaff 	 1
+Flagstaff 	 1
+Flagstaff 	 1
+Bristol 	 1
+Hilton Head Island 	 1
+Pittsfield 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+White Plains 	 1
+Alachua 	 1
+Alachua 	 1
+Alachua 	 1
+Bakersfield 	 1
+Mount Prospect 	 1
+Endicott 	 1
+Maple Shade 	 1
+Maple Shade 	 1
+Lexington 	 1
+Folsom 	 1
+Cedar Park 	 1
+Lyons 	 1
+Lyons 	 1
+Lyons 	 1
+Lyons 	 1
+Lyons 	 1
+Lyons 	 1
+Marysville 	 1
+Thousand Oaks 	 1
+Edmond 	 1
+Edmond 	 1
+Maitland 	 1
+Maitland 	 1
+Mankato 	 1
+Oklahoma City 	 1
+Oklahoma City 	 1
+Detroit Lakes 	 1
+Detroit Lakes 	 1
+Detroit Lakes 	 1
+Atlanta 	 1
+Pittsburg 	 1
+Pittsburg 	 1
+Newport 	 1
+Seattle 	 1
+Scottsdale 	 1
+Fort Worth 	 1
+Fort Worth 	 1
+South Portland 	 1
+E Windsor 	 1
+E Windsor 	 1
+Lancaster 	 1
+Lancaster 	 1
+Lancaster 	 1
+Columbus 	 1
+Columbus 	 1
+Columbus 	 1
+Columbus 	 1
+Columbus 	 1
+Columbus 	 1
+Columbus 	 1
+Columbus 	 1
+Columbus 	 1
+Columbus 	 1
+Columbus 	 1
+Audubon 	 1
+Lexington 	 1
+Novato 	 1
+San Diego 	 1
+San Diego 	 1
+San Diego 	 1
+San Diego 	 1
+San Diego 	 1
+San Diego 	 1
+San Diego 	 1
+Ashland 	 1
+Ashland 	 1
+Ashland 	 1
+Ashland 	 1
+Ashland 	 1
+Ashland 	 1
+Ashland 	 1
+Palos Hills 	 1
+Sylacauga 	 1
+Atlanta 	 1
+Tyngsboro 	 1
+Vernon Rockville 	 1
+Vernon Rockville 	 1
+Vernon Rockville 	 1
+Vernon Rockville 	 1
+Arlington 	 1
+Arlington 	 1
+Arlington 	 1
+Chesterfield 	 1
+Chesterfield 	 1
+Chesterfield 	 1
+Chesterfield 	 1
+Chesterfield 	 1
+Chesterfield 	 1
+Chesterfield 	 1
+Mahopac 	 1
+West Haven 	 1
+West Haven 	 1
+West Haven 	 1
+West Haven 	 1
+West Haven 	 1
+Pasadena 	 1
+Pasadena 	 1
+Pasadena 	 1
+Pasadena 	 1
+Irvine 	 1
+New York 	 1
+New York 	 1
+Beaverton 	 1
+Beaverton 	 1
+Beaverton 	 1
+Grapevine 	 1
+Springfield 	 1
+Plano 	 1
+Plano 	 1
+Plano 	 1
+Columbus 	 1
+Mechanicsburg 	 1
+Mechanicsburg 	 1
+Mechanicsburg 	 1
+Mechanicsburg 	 1
+Mechanicsburg 	 1
+Hershey 	 1
+Nashville 	 1
+Nashville 	 1
+Gunnison 	 1
+Yucaipa 	 1
+Yucaipa 	 1
+Cave Creek 	 1
+Union 	 1
+Middletown 	 1
+Long Beach 	 1
+Fairfield 	 1
+Fairfield 	 1
+Fairfield 	 1
+Fairfield 	 1
+Fairfield 	 1
+Fairfield 	 1
+Fairfield 	 1
+Fairfield 	 1
+Kent 	 1
+Deland 	 1
+Deland 	 1
+Deland 	 1
+Essex 	 1
+Las Vegas 	 1
+Las Vegas 	 1
+Las Vegas 	 1
+Frankfort 	 1
+Frankfort 	 1
+Pittsburgh 	 1
+Pittsburgh 	 1
+Philadelphia 	 1
+Rockville Centre 	 1
+Vallejo 	 1
+Vallejo 	 1
+Jacksonville 	 1
+Jacksonville 	 1
+Bucyrus 	 1
+Bucyrus 	 1
+Bucyrus 	 1
+N Olmsted 	 1
+N Olmsted 	 1
+N Olmsted 	 1
+N Olmsted 	 1
+Honolulu 	 1
+Honolulu 	 1
+Jackson 	 1
+El Segundo 	 1
+El Segundo 	 1
+Celina 	 1
+San Rafael 	 1
+East Greenwich 	 1
+Ashland 	 1
+New York 	 1
+New York 	 1
+Abington 	 1
+Abington 	 1
+Abington 	 1
+Abington 	 1
+Abington 	 1
+Northfield 	 1
+Northfield 	 1
+Northfield 	 1
+Northfield 	 1
+Northfield 	 1
+Northfield 	 1
+Brooklyn 	 1
+Honolulu 	 1
+Washington 	 1
+San Antonio 	 1
+San Antonio 	 1
+Oxford 	 1
+Wilmington 	 1
+Wilmington 	 1
+Collegeville 	 1
+Collegeville 	 1
+Collegeville 	 1
+Collegeville 	 1
+Collegeville 	 1
+Collegeville 	 1
+Collegeville 	 1
+Collegeville 	 1
+Englewood 	 1
+Detroit Lakes 	 1
+Hyde Park 	 1
+Hyde Park 	 1
+Hyde Park 	 1
+Hyde Park 	 1
+Hyde Park 	 1
+Mc Cordsville 	 1
+Mc Cordsville 	 1
+Mc Cordsville 	 1
+Mc Cordsville 	 1
+Mc Cordsville 	 1
+Chicago 	 1
+Myrtle Beach 	 1
+Myrtle Beach 	 1
+Peoria 	 1
+Peoria 	 1
+Peoria 	 1
+Peoria 	 1
+Peoria 	 1
+Garfield 	 1
+Garfield 	 1
+Garfield 	 1
+Encinitas 	 1
+Encinitas 	 1
+Allen 	 1
+Idaho Springs 	 1
+Idaho Springs 	 1
+Shrewsbury 	 1
+Glenview 	 1
+Mill Valley 	 1
+Mill Valley 	 1
+Islip 	 1
+Islip 	 1
+Islip 	 1
+Islip 	 1
+Lakeside 	 1
+Mansfield 	 1
+Mansfield 	 1
+Mansfield 	 1
+Desert Hot Springs 	 1
+Saint Charles 	 1
+Rockingham 	 1
+Rockingham 	 1
+Waverly 	 1
+Waverly 	 1
+Waverly 	 1
+Waverly 	 1
+Waverly 	 1
+Waverly 	 1
+Waverly 	 1
+Waverly 	 1
+Waverly 	 1
+Long Beach 	 1
+Palm Desert 	 1
+Palm Desert 	 1
+Palm Desert 	 1
+Denver 	 1
+Blowing Rock 	 1
+Fenton 	 1
+Fenton 	 1
+Fenton 	 1
+Fenton 	 1
+Fenton 	 1
+Fenton 	 1
+Fenton 	 1
+Louisville 	 1
+Louisville 	 1
+Louisville 	 1
+Louisville 	 1
+Louisville 	 1
+Louisville 	 1
+Saint Ann 	 1
+Sarasota 	 1
+Auburn 	 1
+Auburn 	 1
+Auburn 	 1
+Auburn 	 1
+Auburn 	 1
+Auburn 	 1
+Auburn 	 1
+Auburn 	 1
+Auburn 	 1
+Auburn 	 1
+Chicago Ridge 	 1
+Chicago Ridge 	 1
+Chicago Ridge 	 1
+Chicago Ridge 	 1
+Aurora 	 1
+Dearborn 	 1
+Dearborn 	 1
+Sayville 	 1
+Sayville 	 1
+Pittsburgh 	 1
+Pittsburgh 	 1
+Pittsburgh 	 1
+Miami Beach 	 1
+Kernersville 	 1
+Kernersville 	 1
+Kernersville 	 1
+Port Washington 	 1
+Port Washington 	 1
+College Station 	 1
+Fairfield 	 1
+Fairfield 	 1
+Fairfield 	 1
+Binghamton 	 1
+Stillwater 	 1
+Stillwater 	 1
+Stillwater 	 1
+Stillwater 	 1
+Charlotte 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+Reisterstown 	 1
+Framingham 	 1
+Springfield 	 1
+Kennesaw 	 1
+Kennesaw 	 1
+Pompano Beach 	 1
+Pompano Beach 	 1
+Pompano Beach 	 1
+Madison 	 1
+Greensboro 	 1
+Greensboro 	 1
+Briarcliff Manor 	 1
+Briarcliff Manor 	 1
+Briarcliff Manor 	 1
+Peabody 	 1
+Cleveland 	 1
+Cleveland 	 1
+Cherry Hill 	 1
+Cherry Hill 	 1
+Cherry Hill 	 1
+Cherry Hill 	 1
+Cherry Hill 	 1
+Richmond 	 1
+Richmond 	 1
+Elgin 	 1
+Danville 	 1
+Danville 	 1
+Kamuela 	 1
+Seattle 	 1
+Margate City 	 1
+Margate City 	 1
+Margate City 	 1
+Columbia 	 1
+Columbia 	 1
+Houston 	 1
+Houston 	 1
+Houston 	 1
+Houston 	 1
+Houston 	 1
+Houston 	 1
+Houston 	 1
+Kingston 	 1
+Whitehall 	 1
+Whitehall 	 1
+Richardson 	 1
+Richardson 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+New York 	 1
+Bennettsville 	 1
+Bennettsville 	 1
+Rockville 	 1
+Rockville 	 1
+Fort Lee 	 1
+Williamstown 	 1
+Williamstown 	 1
+Williamsburg 	 1
+Hazlet 	 1
+Saint James 	 1
+Oklahoma City 	 1
+Denver 	 1
+Denver 	 1
+Denver 	 1
+East Hartford 	 1
+South Weymouth 	 1
+South Weymouth 	 1
+South Weymouth 	 1
+South Weymouth 	 1
+South Weymouth 	 1
+South Weymouth 	 1
+South Weymouth 	 1
+South Weymouth 	 1
+Wilmington 	 1
+Bowling Green 	 1
+Bowling Green 	 1
+Bowling Green 	 1
+Bowling Green 	 1
+Union 	 1
+Union 	 1
+Union 	 1
+Union 	 1
+Union 	 1
+Bloomfield Hills 	 1
+Bloomfield Hills 	 1
+Bloomfield Hills 	 1
+Albany 	 1
+Albany 	 1
+Westwood 	 1
+Westwood 	 1
+Joppa 	 1
+Joppa 	 1
+Joppa 	 1
+Joppa 	 1
+Joppa 	 1
+Joppa 	 1
+Joppa 	 1
+Joppa 	 1
+Port Washington 	 1
+Port Washington 	 1
+Port Washington 	 1
+New York 	 1
+Woodbury 	 1
+Phoenix 	 1
+Phoenix 	 1
+Phoenix 	 1
+Phoenix 	 1
+Phoenix 	 1
+Augusta 	 1
+Whitestone 	 1
+Rochester 	 1
+Rochester 	 1
+Harleysville 	 1
+Harleysville 	 1
+Harleysville 	 1
+Harleysville 	 1
+Harleysville 	 1
+Johns Island 	 1
+Johns Island 	 1
+Bolingbrook 	 1
+Bolingbrook 	 1
+Bolingbrook 	 1
+Bolingbrook 	 1
+Bolingbrook 	 1
+Bolingbrook 	 1
+Bolingbrook 	 1
+Bloomington 	 1
+Bloomington 	 1
+Bloomington 	 1
+Hollywood 	 1
+Pennington 	 1
+Pennington 	 1
+Seattle 	 1
+Seattle 	 1
+Seattle 	 1
+Seattle 	 1
+Seattle 	 1
+Boise 	 1
+Boise 	 1
+New York 	 1
+Pearland 	 1
+Crown Point 	 1
+Jefferson City 	 1
+Jefferson City 	 1
+Jefferson City 	 1
+Jefferson City 	 1
+Jefferson City 	 1
+Jefferson City 	 1
+Jefferson City 	 1
