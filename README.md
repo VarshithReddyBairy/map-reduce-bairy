@@ -46,12 +46,15 @@ cat CustomDataSet.csv | python CustomDataMapper.py | sort  | python CustomDataRe
 
 ```
 
+
+
+![Cities with more number of pizza restaurants per capita](TopTenCities.PNG)
+
 The result is only 240 records, so I'll use Excel to chart it. 
 Excel Data / Filter.  Then, sort by count reversed - or better yet, just take the "Top 10". 
 Excel Insert / Recommended Chart - seems to look nice. Found out the top 10 cities with more number of restaurants per capita(100,000 residents)
 
-
-![Cities with more number of pizza restaurants per capita](TopTenCities.PNG)
+From the above chart we can see the top 10 cities with more number of pizza restaurants per capita(100,000)
 
 
 
